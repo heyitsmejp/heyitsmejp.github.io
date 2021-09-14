@@ -1,0 +1,37 @@
+header{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image:url("./images/pattern.jpg") ;
+}
+
+a{
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+
+p {
+    font-size: 16px;
+}
+.section-header{
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color:white;
+    
+}
+
+#brushes-header{
+    background-color: mediumspringgreen;
+}
+
+#frames-header{
+    background-color: lightcoral;
+}
+
+#paint-header{
+    background-color: skyblue;
+}
